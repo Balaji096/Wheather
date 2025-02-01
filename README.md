@@ -79,7 +79,7 @@ Feel free to open a pull request or submit an issue.
 
 ## **Contact**
 For any inquiries or support, feel free to reach out:  
-- **GitHub**: [AAC2001](https://github.com/AAC2001)  
+- **GitHub**: [Balaji096](https://github.com/Balaji096)  
 
 --- 
 
